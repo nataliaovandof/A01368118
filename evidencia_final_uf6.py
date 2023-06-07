@@ -26,3 +26,4 @@ st.map(mapa.astype(int))
 
 
 
+
