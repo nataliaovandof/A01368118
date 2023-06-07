@@ -25,3 +25,4 @@ mapa = mapa.dropna()
 st.map(mapa.astype(int))
 
 
+
